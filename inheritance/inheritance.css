@@ -1,0 +1,22 @@
+.danger, .warning, .success {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 24px;
+  font-weight: bold;
+  border: 4px solid black;
+  padding: 20px;
+  margin: 30px;
+}
+
+.success {
+  background-color: chartreuse;
+}
+
+.warning {
+  background-color: darkorange;
+}
+
+.danger {
+  background-color: darkred;
+}
+
+/*# sourceMappingURL=inheritance.css.map */
